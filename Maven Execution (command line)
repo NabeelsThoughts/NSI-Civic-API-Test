@@ -1,4 +1,4 @@
-Command Line – Through Maven Project 
+Maven Project executed through cmd
 Navigate to the GoogleAPI project repository location in cmd     
     Command: cd "projects location"
 Clean current Maven Project 
