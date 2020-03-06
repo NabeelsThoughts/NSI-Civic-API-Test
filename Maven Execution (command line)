@@ -1,0 +1,9 @@
+Command Line – Through Maven Project 
+Navigate to the GoogleAPI project repository location in cmd     
+    Command: cd "projects location"
+Clean current Maven Project 
+    Command: mvn clean
+Trigger Maven Test 
+    Command: mvn test 
+    
+ 
